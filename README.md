@@ -94,32 +94,38 @@ Software Engineering provides a means of problem solving that uniquely
 reflects human nature. It traverses both arts and sciences. Because of
 this, it provides lessons that can be used in life in general.
 
--   Complex problems are just a series of simpler problems smushed
-    together.
--   Pay attention to ***where*** systems, layers, resources and people communicate.
--   Solve problems, don't just point them out.
--   Steal ideas liberally from everyone else. Originality is not a
-    virtue. Learn from the past.
--   Put trust in people, not in things.
--   Don't build solutions that try to do everything.
--   Create solutions that play nicely with others, do only
-    a few things, and do them well.
--   Perfectionism can be taken too far. It's best to get a solution that
-    does most of what you want to do then none at all.
--   Projects must have solid deliverables. Only when goals are can be
-    stated in clear cut terms can they be achieved.
--   Sometimes you need to do the things that failures do not like to do.
--   Every project begins with that first step. And sometimes it is the
-    hardest.
--   Schedule your priorities, not the other way around.
--   A shared success is one that will last and grow.
--   Projects that aren't solutions to diagnosed needs are wasteful
-    projects. They are doomed to failure. Especially true in technology.
-    While technology may expose new capabilities - it is more typically
-    true that it is business need that should be satisfied by
-    technology - not the other way around.
--   Continuously improve skills and knowledge by seeing what others are
-    doing in the world.
+- Complex problems are just a series of simpler problems smushed
+  together.
+- Pay attention to ***where*** systems, layers, resources and people
+  communicate.
+- Solve problems, don't just point them out.
+- Steal ideas liberally from everyone else. Originality is not a
+  virtue. Learn from the past.
+- Put trust in people, not in things.
+- Don't build solutions that try to do everything.
+- Create solutions that play nicely with others, do only a few things,
+  and do them well.
+- Perfectionism can be taken too far.
+- Nevertheless, first, do no harm!
+- Goals clearly stated are more liable to be achieved.
+- Sometimes you need to do the things that failures do not like to do.
+- Every project begins with that first step. Sometimes it is the
+  hardest.
+- Schedule your priorities, not the other way around.
+- A shared success is one that will last and grow.
+- Projects that aren't solutions to diagnosed needs are usually
+  wasteful. Diagnose before prescribing something.
+- Great systems are easily modified by the people who most frequently
+  work with them. They support unexpected changes, and are easy to
+  maintain. They have a conceptual integrity to them that makes
+  working on them predictable and possible to reason about.
+- Metaphors and stories are great. And necessary.
+- Feedback is required.
+- Continuously improve skills and knowledge by seeing what others are
+  doing in the world.
+- Continuously improve the things you plan on keeping, otherwise, one
+  day, they no longer will be worth keeping in the first place.
+
 
 ## Beliefs<a id="sec-4" name="sec-4"></a>
 
@@ -335,7 +341,6 @@ this, it provides lessons that can be used in life in general.
 > you can be. Compete with yourself.
 
 &mdash; *Mindset, by Carol Dweck*
-
 
 > If you can keep your head when all about you
 > Are losing theirs and blaming it on you;
@@ -667,7 +672,6 @@ this, it provides lessons that can be used in life in general.
 
 &mdash; *Bill Watterson*
 
-
 > The more we live, the larger our repertoire of concepts becomes,
 > which allows us to gobble up ever larger coherent stretches of life
 > in single mental chunks. As we start seeing life's patterns on
@@ -881,12 +885,6 @@ you Dispute, Dispel or Distract them, you are left with new Effects.
 
 &mdash; *Israeli President Shimon Peres*
 
-> Software is, after all, a service and not really a product, and its
-> power lies in its ability to capture tasks and the growth and changes
-> in tasks.
-
-&mdash; *The DCI Architecture*
-
 > When you're young, you look at television and think, There's a
 > conspiracy. The networks have conspired to dumb us down. But
 > when you get a little older, you realize that's not true. The networks
@@ -903,6 +901,12 @@ you Dispute, Dispel or Distract them, you are left with new Effects.
 > must be built.
 
 &mdash; *Is Design Dead, Martin Fowler*
+
+> Software is, after all, a service and not really a product, and its
+> power lies in its ability to capture tasks and the growth and changes
+> in tasks.
+
+&mdash; *The DCI Architecture*
 
 > Many discussions of "good" design simply focus on specific techniques.
 > These discussions often have undisclosed assumptions that one

@@ -833,7 +833,7 @@ you Dispute, Dispel or Distract them, you are left with new Effects.
 
 > Begin with the end in mind.
 
-&mdash; *Unknown*
+&mdash; *Stephen Covey -- The 7 Habits of Highly Effective People* (Habit #2)
 
 > Cut your coat according to the cloth.
 

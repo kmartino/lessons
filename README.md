@@ -1,5 +1,5 @@
 # Lessons
-**Karl Martino, Last Update January 25, 2015**
+**Karl Martino, Last Update May 18, 2026**
 
 <div id="table-of-contents">
 <h2>Table of Contents</h2>

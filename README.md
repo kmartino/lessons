@@ -311,6 +311,11 @@ this, it provides lessons that can be used in life in general.
 
 ## On Fate, Self Determination, and Free Will<a id="sec-6" name="sec-6"></a>
 
+> You can’t “make time” any more than you can make sunshine.
+> You need to choose what to not do, in order to do. You need to sleep at night to be awake for the day.
+
+&mdash; *Karl Martino (and a few million other people)*
+
 > Life is a card game. You have no control over the cards dealt. But
 > you do have control over how you play your hand.
 
